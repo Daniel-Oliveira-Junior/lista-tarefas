@@ -1,10 +1,9 @@
 # Meu Projeto
 
-Este é um projeto desenvolvido por mim para praticar HTML, CSS e JavaScript.
+Este é um projeto desenvolvido por mim para praticar HTML e JavaScript.
 
 ## Tecnologias usadas:
 - HTML
-- CSS
 - JavaScript
 
 ## Objetivo:
